@@ -1,0 +1,12 @@
+<suite name="All Tests">
+    <test name="Man Tests">
+        <classes>
+            <class name="ManTest"/>
+        </classes>
+    </test>
+    <test name="Woman Tests">
+        <classes>
+            <class name="WomanTest"/>
+        </classes>
+    </test>
+</suite>
